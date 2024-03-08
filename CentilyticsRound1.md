@@ -39,5 +39,7 @@ for(let char of myName){
 }
 console.log(occuranceOfmyName)
 ```
+```
 How many type display value  in css?
 how to do dive as inline?
+```
