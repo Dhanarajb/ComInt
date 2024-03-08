@@ -1,7 +1,9 @@
+```
 > Introduction
 > Project questions
 > how to declare the Array
 > tell me about variables
+```
 
 ```
 const arr = [1, 2, 3];
