@@ -1,4 +1,7 @@
 ```
+Cleared 🤩
+```
+```
 > Introduction
 > Project questions
 > how to declare the Array
