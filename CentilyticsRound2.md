@@ -8,11 +8,11 @@ let str = 'HelloWorld';
 let occurranceOfString = {};
 
 for (let char of str) {
-if (occurranceOfString[char]) {
-occurranceOfString[char]++;
-} else {
-occurranceOfString[char] = 1;
-}
+  if (occurranceOfString[char]) {
+    occurranceOfString[char]++;
+  } else {
+    occurranceOfString[char] = 1;
+  }
 }
 console.log(occurranceOfString);
 
@@ -23,7 +23,7 @@ console.log(occurranceOfString);
 let reverseString = '';
 
 for (let i = str.length - 1; i >= 0; i--) {
-reverseString += str[i];
+  reverseString += str[i];
 }
 console.log(reverseString);
 
@@ -38,12 +38,12 @@ const result = [];
 const checkingMaxLength = Math.max(a.length, b.length);
 
 for (let i = 0; i < checkingMaxLength; i++) {
-if (i < a.length) {
-result.push(a[i]);
-}
-if (i < b.length) {
-result.push(b[i]);
-}
+  if (i < a.length) {
+    result.push(a[i]);
+  }
+  if (i < b.length) {
+    result.push(b[i]);
+  }
 }
 console.log(result);
 
@@ -68,4 +68,12 @@ console.log(result);
 21. Child to parent how will do?
 22. Implement parent to child?
 23. TodoList implement.
+```
+const c = [45, 78, 8485, 5, 77, 1, 6, 3, 46, 55, 99];
 
+const incrementBytwo = c.map((ele) => ele + 2);
+console.log(incrementBytwo);
+
+const printTheValueBelowFifty = c.filter((ele) => ele <= 50);
+console.log(printTheValueBelowFifty);
+```
