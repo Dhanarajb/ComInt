@@ -1,4 +1,8 @@
-
+```
+The interviewer took 1.3 hours, which is longer than the previously mentioned 30 minutes.
+Interview went well
+waiting for response
+```
 1. Introduction
 2. Occurrance
 ```
