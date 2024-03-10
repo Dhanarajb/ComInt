@@ -1,4 +1,4 @@
-```
+
 1. Introduction
 2. Occurrance
 ```
@@ -68,4 +68,4 @@ console.log(result);
 21. Child to parent how will do?
 22. Implement parent to child?
 23. TodoList implement.
-```
+
